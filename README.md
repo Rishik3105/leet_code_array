@@ -73,7 +73,7 @@ Problems will be organized based on difficulty level for better clarity.
 
 - 🟢 Easy Problems – In Progress  
 - 🟡 Medium Problems – In Progress  
-- 🔴 Hard Problems – Coming Soon  
+- 🔴 Hard Problems –  In Progress
 
 I will keep updating this repository regularly as I solve more problems.
 
